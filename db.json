@@ -1,0 +1,44 @@
+{
+  "orders": [
+    {
+      "id": "1001",
+      "customer_name": "John Smith",
+      "product_ordered": "Laptop",
+      "order_date": "2024-03-01",
+      "expected_delivery_date": "2024-03-10",
+      "current_status": "Shipped"
+    },
+    {
+      "id": "1002",
+      "customer_name": "Sarah Johnson",
+      "product_ordered": "Smartphone",
+      "order_date": "2024-03-03",
+      "expected_delivery_date": "2024-03-12",
+      "current_status": "Processing"
+    },
+    {
+      "id": "1003",
+      "customer_name": "Michael Brown",
+      "product_ordered": "Headphones",
+      "order_date": "2024-03-05",
+      "expected_delivery_date": "2024-03-15",
+      "current_status": "In Transit"
+    },
+    {
+      "id": "1004",
+      "customer_name": "Emily Davis",
+      "product_ordered": "Tablet",
+      "order_date": "2024-03-08",
+      "expected_delivery_date": "2024-03-18",
+      "current_status": "Delivered"
+    },
+    {
+      "id": "1005",
+      "customer_name": "David Wilson",
+      "product_ordered": "Camera",
+      "order_date": "2024-03-10",
+      "expected_delivery_date": "2024-03-20",
+      "current_status": "Pending"
+    }
+  ]
+}
